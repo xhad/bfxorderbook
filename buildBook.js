@@ -1,7 +1,7 @@
 'use strict';
 
-// This conennect to the Bitfinex Exchange and builds and order book in real-time
-// by connecting to the Websocket API and filters inital callback Data
+// Connect to the Bitfinex Exchange and build the order book in real-time
+// by connecting to the Websocket API and filterging inital callback Data
 
 
 var WebSocket = require('ws');
