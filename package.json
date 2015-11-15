@@ -1,0 +1,15 @@
+{
+  "name": "exchangedata",
+  "version": "1.0.0",
+  "description": "Internal data Websocket API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chad Lynch",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "latest",
+    "ws": "latest"
+  }
+}
